@@ -224,8 +224,8 @@ def convert_to_wav(input_path, output_path):
 
 
 def main():
-    INPUT_AUDIO = "voice1.mp3"
-    WAV_OUTPUT = "voice1_16k_mono.wav"
+    INPUT_AUDIO = "newvoice_1min.mp3"
+    WAV_OUTPUT = "new_voice_16k_mono.wav"
 
     print("Voxtral Persian ASR - Memory Optimized for GTX 1050 Ti")
     print("=" * 65)
